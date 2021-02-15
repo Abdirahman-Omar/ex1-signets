@@ -9,43 +9,43 @@
       "id":"log0002",
       "titre":"React",
       "couleur": [150, 123, 182],
-      "dateModification": " 11 fevrier 2021"
+      "dateModification": "11 fevrier 2021"
     },
     {
       "id":"log0003",
       "titre":"Plateformes nuagiques",
       "couleur": [150, 123, 182],
-      "dateModification": " 12 fevrier 2021"
+      "dateModification": "12 fevrier 2021"
     },
     {
       "id":"log0004",
       "titre":"IDEs (nuagiques)",
       "couleur": [150, 123, 182],
-      "dateModification": "Mercredi 10 fevrier"
+      "dateModification": " 13 fevrier 2021"
     },
     {
       "id":"log0005",
       "titre":"Outils Javascript",
       "couleur": [150, 123, 182],
-      "dateModification": "Mercredi 10 fevrier"
+      "dateModification": "14 fevrier 2021"
     },
     {
       "id":"log0006",
       "titre":"JavaScript",
       "couleur": [150, 123, 182],
-      "dateModification": "Mercredi 10 fevrier"
+      "dateModification": "15 fevrier 2021"
     },
     {
         "id":"log0007",
         "titre":"Firebase",
         "couleur": [150, 123, 182],
-        "dateModification": "Mercredi 10 fevrier"
+        "dateModification": "16 fevrier 2021"
       },
       {
         "id":"log0008",
         "titre":"GraphQL",
         "couleur": [150, 123, 182],
-        "dateModification": "Mercredi 10 fevrier"
+        "dateModification": "17 fevrier 2021"
       }
   ]
   

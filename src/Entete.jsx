@@ -11,7 +11,7 @@ export default function Entete(props) {
         </ul>
         <ul className="navUtil">
           <li>Abdirahman Omar</li>
-          <div>Logo</div>
+          <div></div>
         </ul>
       </header>
     );
